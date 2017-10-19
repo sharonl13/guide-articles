@@ -64,7 +64,7 @@ _Wrap around indexing_
 
 **Mutable:**
 
-`lists` are mutable containers. Mutable containers are containers that allow changes to which objects are contained by the container. **TODO: ADD MORE?**
+`lists` are mutable containers. Mutable containers are containers that allow changes to which objects are contained by the container. On the other hand, immutable containers do not allow changes (examples would include booleans, integers, and floats). **TODO: ADD MORE?**
 
 **TODO: Which of these should be discussed here:**
 
