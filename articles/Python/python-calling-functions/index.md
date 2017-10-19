@@ -45,3 +45,6 @@ The arguments used to call a function cannot be reassigned by the function, but 
     >>> fn(a)
     >>> a
     [1, 2, 3, 1]
+
+The scope of variables within a function must also be taken into consideration. Variables created within a function are unable to be accessed outside of the function.
+  
