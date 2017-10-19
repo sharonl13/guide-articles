@@ -3,6 +3,7 @@ title: Learn About Python Sets
 ---
 **TODO: `set` basic info**
 
+Python sets can be enclosed within curly brackets or pairs of parentheses and square brackets.
 **Mutable**
 
 **Creation:**
