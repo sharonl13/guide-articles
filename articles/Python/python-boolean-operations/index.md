@@ -36,6 +36,8 @@ not x | if x is false, then True, else False | (3)
     False
     >>> True and True     # Second argument is evaluated.
     True
+    >>> not True and not True     # Short-circuited at first argument.
+    False
 
 ### `or`:
 
